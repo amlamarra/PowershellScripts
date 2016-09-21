@@ -3,7 +3,7 @@
     AUTHOR: Andrew Lamarra
     CREATED: 5/7/2015
 
-    COMMENTS: This script will run through every Server with FA and provide
+    COMMENTS: This script will run through the servers given and provides
               information about software and hotfixes that are installed locally
  #>
 
